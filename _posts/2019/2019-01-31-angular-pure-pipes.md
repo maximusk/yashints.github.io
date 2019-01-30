@@ -13,7 +13,7 @@ canonical_url: 'https://blog.angularindepth.com/the-essential-difference-between
 
 When writing a custom pipe in Angular you can specify whether you define a pure or an impure pipe:
 
-```javascript
+```javascript 
 @Pipe({
   name: 'myCustomPipe', 
   pure: false/true        <----- here (default is `true`)
