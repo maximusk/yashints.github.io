@@ -1,4 +1,4 @@
-/--
+---
 layout: post
 title: "The essential difference between pure and impure pipes in Angular and why that matters"
 subtitle: "Leveraging pure pipes to optimize Angular application"
